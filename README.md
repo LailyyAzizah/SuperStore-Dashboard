@@ -17,9 +17,6 @@
 > - Inventory management levels: This feature shows which shipping mode is used most frequently by record count.
 
 
-<img width="800" alt="SuperStore Dashboard" 
-  src="https://github.com/LailyyAzizah/SuperStore-Dashboard/assets/146923243/cd2cb315-0f40-4060-92c8-ff6fb2d1647f">
-
 > The dashboard outcomes provide insights into the sales performance of different regions within the Global Superstore. This visualization helps us understand the evolution of sales trends over time and their variations among regions. The sales data reflects the changes in economic, social, and market conditions that have occurred within the Global Superstore over the past four years. Although there are still discrepancies between regions, we also observe commendable efforts and progress in improving the sales performance of the Global Superstore. This information serves as a valuable reference for management and business institutions to continue enhancing the company's performance and achieving even better results in the future.
 >
 > 
